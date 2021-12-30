@@ -10,7 +10,6 @@ import Home from "./components/Home";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
 import "./components/style.css";
-import FetchApi from "./components/FetchApi";
 import Api from "./components/Api";
 
 
